@@ -518,5 +518,13 @@ INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
 DOMAIN/LANGUGAE : C++<br>
 
 ---
+---
+
+NAME : Anand kumar <br>
+GITHUB : https://github.com/Anand2350 <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN/LANGUGAE : JAVA <br>
+
+---
 
 
